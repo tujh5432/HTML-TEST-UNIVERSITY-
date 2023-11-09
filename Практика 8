@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>Super title</title>
+ </head>
+ <body>
+
+     <ul>
+         <li>
+             <a href="https://does.shinst.sumdu.edu.ua/pub_doc/k2.pdf">Розклад для 2 го курсу</a>
+         </li>
+         <li>
+             <a href="https://pogoda.meta.ua/">Погода</a>
+         </li>
+         <li>
+             <a href="https://www.youtube.com/watch?v=yn1VGUiJCoI&list=PLenwk9TUJzJ6ep0oogRRQZHzPMtTGKqF1&index=8">Уроки html</a>
+         </li>
+     </ul>
+
+     <h1>I love html</h1>
+     <h2>I love html</h2>
+     <h3>I love html</h3>
+     <h4>I love html</h4>
+     <h5>I love html</h5>
+     <h6>I love html</h6>
+     <h7>I love html</h7>
+     <p>I love html</p>
+     <img src="./images/image.jpg" alt="Nice picture" />
+ </body>
+</html>
