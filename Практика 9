@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The best cite html code</title>
+</head>
+<body>
+
+
+    <ul>
+        <li>
+            <a href="https://does.shinst.sumdu.edu.ua/pub_doc/k2.pdf">Розклад для 2 го курсу</a>
+        </li>
+        <li>
+            <a href="https://pogoda.meta.ua/">Погода</a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/watch?v=yn1VGUiJCoI&list=PLenwk9TUJzJ6ep0oogRRQZHzPMtTGKqF1&index=8">Уроки html</a>
+        </li>
+    </ul>
+
+
+    <h1> TITLE  </h1>
+    <h2>  =================  </h2>
+    <p> HI </p>
+    <p> HI <i>HI </i></p>
+    <p> HI <b>HI </b></p>
+    <p> HI <sub>HI</sub> <sup>HI</sup></p>
+
+    <img src="./images/image.jpg" alt="This is your dream" />
+</body>
+</html>
+
