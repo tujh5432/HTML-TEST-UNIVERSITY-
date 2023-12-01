@@ -30,3 +30,31 @@
      <img src="./images/image.jpg" alt="Nice picture" />
  </body>
 </html>
+
+
+CSS file
+* {
+    color: limegreen;
+    font-family: Impact;
+    font-weight:1;
+}
+
+h1 {
+    color: darkgray;
+}
+
+a {
+    color:seagreen;
+}
+
+p {
+    color: blue;
+}
+
+.test {
+    color:darkred;
+}
+
+#test1 {
+    color:antiquewhite; 
+}
