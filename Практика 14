@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>Super title</title>
+    <link href="style.css" rel="stylesheet" />
+ </head>
+ <body>
+     <div class="parent-1">
+         <p>Div1 paragraph</p>
+
+         <div>
+             <p>Div2 paragraph</p>
+
+             <div>
+                 <p>Div3 paragraph</p>
+
+                 <div>
+
+                     <p>Div4 paragraph</p>
+
+                 </div>
+             </div>
+         </div>
+     </div>
+
+     <p class="p-1">I love this world</p>
+     <p class="p-2">I love this world</p>
+     <p id="test-1">I love this world</p>
+
+
+
+     <ul>
+         <li>
+             <a href="https://does.shinst.sumdu.edu.ua/pub_doc/k2.pdf">Розклад для 2 го курсу</a>
+         </li>
+         <li>
+             <a href="https://pogoda.meta.ua/">Погода</a>
+         </li>
+         <li>
+             <a href="https://www.youtube.com/watch?v=yn1VGUiJCoI&list=PLenwk9TUJzJ6ep0oogRRQZHzPMtTGKqF1&index=8">Уроки html</a>
+         </li>
+     </ul>
+
+     <h1>I love html</h1>
+     <h2 class="test-1 test-2">I love html</h2>
+     <h3>I love html</h3>
+     <h4>I love html</h4>
+     <h5>I love html</h5>
+     <h6>I love html</h6>
+     <h7>I love html</h7>
+     <p class="test">Class test</p>
+     <p id="test1">#TEST</p>
+     <img src="./images/image.jpg" alt="Nice picture" />
+ </body>
+</html>
+
+
+
+CSS FILE
+* {
+    color: limegreen;
+    font-family: Impact;
+    font-weight:1;
+}
+
+h1 {
+    color: darkgray;
+}
+
+a {
+    color:seagreen;
+}
+
+p {
+    color: lightskyblue;
+}
+
+.test {
+    color:darkred;
+}
+
+#test1 {
+    color:antiquewhite; 
+}
+
+.parent-1 ~ p{
+    font-size:x-large;
+    background-color: lightpink;
+}
+
+.test-1.test-2 {
+    color:yellow;
+}
+
+.p-1, p-2, p-3  {
+    color: blueviolet;
+}
+
+p[id="test-1"] {
+    color: black;
+
+}
